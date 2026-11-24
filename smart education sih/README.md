@@ -1,16 +1,44 @@
-# React + Vite
+# Smart Education SIH
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+## Project Overview
+Smart Education SIH is a smart learning platform designed to improve the educational experience through interactive learning tools and student performance tracking.
 
-Currently, two official plugins are available:
+## Features
+- Student Dashboard
+- AI Assistant
+- AI Tutor
+- Attendance Management
+- Student Performance Tracking
+- Quiz Management
+- Study Planner
+- Learning Materials
+- At-Risk Student Identification
+- Progress Reports
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Technologies Used
+- React.js
+- Vite
+- JavaScript
+- CSS
 
-## React Compiler
+## Installation and Setup
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sowmyalingam75/smart_education-SIH.git
+   ```
 
-## Expanding the Oxlint configuration
+2. Open the project folder.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+4. Start the application:
+   ```bash
+   npm run dev
+   ```
+
+## GitHub Repository
+https://github.com/sowmyalingam75/smart_education-SIH
